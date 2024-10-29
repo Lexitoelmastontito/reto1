@@ -14,6 +14,14 @@ public class Funciones2 {
 			return num1/num2;
 		}
 	}
+	public static boolean espositivo(int num) {
+		if(num>=0) {
+			return true;
+		}
+		else {
+			return false;
+		}
 	
+	}
 	
 }
